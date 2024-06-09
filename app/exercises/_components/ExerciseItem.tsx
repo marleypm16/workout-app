@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from "next/image";
-import {Card, CardContent, CardHeader, CardTitle} from "@/app/_components/ui/card";
+import {Card, CardContent, CardTitle} from "@/app/_components/ui/card";
 import { Badge } from '@/app/_components/ui/badge';
 import Link from "next/link";
 interface ExerciseItemProps {
